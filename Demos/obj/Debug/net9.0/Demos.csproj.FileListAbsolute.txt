@@ -1,0 +1,14 @@
+/Users/jmoll/Desktop/InheritanceLab/Demos/obj/Debug/net9.0/Demos.GeneratedMSBuildEditorConfig.editorconfig
+/Users/jmoll/Desktop/InheritanceLab/Demos/obj/Debug/net9.0/Demos.AssemblyInfoInputs.cache
+/Users/jmoll/Desktop/InheritanceLab/Demos/obj/Debug/net9.0/Demos.AssemblyInfo.cs
+/Users/jmoll/Desktop/InheritanceLab/Demos/obj/Debug/net9.0/Demos.csproj.CoreCompileInputs.cache
+/Users/jmoll/Desktop/InheritanceLab/Demos/bin/Debug/net9.0/Demos
+/Users/jmoll/Desktop/InheritanceLab/Demos/bin/Debug/net9.0/Demos.deps.json
+/Users/jmoll/Desktop/InheritanceLab/Demos/bin/Debug/net9.0/Demos.runtimeconfig.json
+/Users/jmoll/Desktop/InheritanceLab/Demos/bin/Debug/net9.0/Demos.dll
+/Users/jmoll/Desktop/InheritanceLab/Demos/bin/Debug/net9.0/Demos.pdb
+/Users/jmoll/Desktop/InheritanceLab/Demos/obj/Debug/net9.0/Demos.dll
+/Users/jmoll/Desktop/InheritanceLab/Demos/obj/Debug/net9.0/refint/Demos.dll
+/Users/jmoll/Desktop/InheritanceLab/Demos/obj/Debug/net9.0/Demos.pdb
+/Users/jmoll/Desktop/InheritanceLab/Demos/obj/Debug/net9.0/Demos.genruntimeconfig.cache
+/Users/jmoll/Desktop/InheritanceLab/Demos/obj/Debug/net9.0/ref/Demos.dll

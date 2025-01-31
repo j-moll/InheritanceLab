@@ -1,0 +1,14 @@
+/Users/jmoll/Desktop/InheritanceLab/RandomList/bin/Debug/net9.0/CustomRandomList
+/Users/jmoll/Desktop/InheritanceLab/RandomList/bin/Debug/net9.0/CustomRandomList.deps.json
+/Users/jmoll/Desktop/InheritanceLab/RandomList/bin/Debug/net9.0/CustomRandomList.runtimeconfig.json
+/Users/jmoll/Desktop/InheritanceLab/RandomList/bin/Debug/net9.0/CustomRandomList.dll
+/Users/jmoll/Desktop/InheritanceLab/RandomList/bin/Debug/net9.0/CustomRandomList.pdb
+/Users/jmoll/Desktop/InheritanceLab/RandomList/obj/Debug/net9.0/CustomRandomList.GeneratedMSBuildEditorConfig.editorconfig
+/Users/jmoll/Desktop/InheritanceLab/RandomList/obj/Debug/net9.0/CustomRandomList.AssemblyInfoInputs.cache
+/Users/jmoll/Desktop/InheritanceLab/RandomList/obj/Debug/net9.0/CustomRandomList.AssemblyInfo.cs
+/Users/jmoll/Desktop/InheritanceLab/RandomList/obj/Debug/net9.0/CustomRandomList.csproj.CoreCompileInputs.cache
+/Users/jmoll/Desktop/InheritanceLab/RandomList/obj/Debug/net9.0/CustomRandomList.dll
+/Users/jmoll/Desktop/InheritanceLab/RandomList/obj/Debug/net9.0/refint/CustomRandomList.dll
+/Users/jmoll/Desktop/InheritanceLab/RandomList/obj/Debug/net9.0/CustomRandomList.pdb
+/Users/jmoll/Desktop/InheritanceLab/RandomList/obj/Debug/net9.0/CustomRandomList.genruntimeconfig.cache
+/Users/jmoll/Desktop/InheritanceLab/RandomList/obj/Debug/net9.0/ref/CustomRandomList.dll

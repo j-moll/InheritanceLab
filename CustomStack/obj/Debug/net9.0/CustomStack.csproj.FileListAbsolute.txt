@@ -1,0 +1,14 @@
+/Users/jmoll/Desktop/InheritanceLab/CustomStack/bin/Debug/net9.0/CustomStack
+/Users/jmoll/Desktop/InheritanceLab/CustomStack/bin/Debug/net9.0/CustomStack.deps.json
+/Users/jmoll/Desktop/InheritanceLab/CustomStack/bin/Debug/net9.0/CustomStack.runtimeconfig.json
+/Users/jmoll/Desktop/InheritanceLab/CustomStack/bin/Debug/net9.0/CustomStack.dll
+/Users/jmoll/Desktop/InheritanceLab/CustomStack/bin/Debug/net9.0/CustomStack.pdb
+/Users/jmoll/Desktop/InheritanceLab/CustomStack/obj/Debug/net9.0/CustomStack.GeneratedMSBuildEditorConfig.editorconfig
+/Users/jmoll/Desktop/InheritanceLab/CustomStack/obj/Debug/net9.0/CustomStack.AssemblyInfoInputs.cache
+/Users/jmoll/Desktop/InheritanceLab/CustomStack/obj/Debug/net9.0/CustomStack.AssemblyInfo.cs
+/Users/jmoll/Desktop/InheritanceLab/CustomStack/obj/Debug/net9.0/CustomStack.csproj.CoreCompileInputs.cache
+/Users/jmoll/Desktop/InheritanceLab/CustomStack/obj/Debug/net9.0/CustomStack.dll
+/Users/jmoll/Desktop/InheritanceLab/CustomStack/obj/Debug/net9.0/refint/CustomStack.dll
+/Users/jmoll/Desktop/InheritanceLab/CustomStack/obj/Debug/net9.0/CustomStack.pdb
+/Users/jmoll/Desktop/InheritanceLab/CustomStack/obj/Debug/net9.0/CustomStack.genruntimeconfig.cache
+/Users/jmoll/Desktop/InheritanceLab/CustomStack/obj/Debug/net9.0/ref/CustomStack.dll
